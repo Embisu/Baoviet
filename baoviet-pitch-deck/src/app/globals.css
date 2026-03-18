@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-deep-river: #020813; /* Midnight Sapphire */
+  --color-baoviet-blue: #005BAC;
+  --color-heritage-gold: #D4AF37;
+  --color-off-white: #F8FAFC;
+  
+  --font-sans: var(--font-inter), sans-serif;
+  --font-inter: var(--font-inter);
+  --font-playfair: var(--font-playfair);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-deep-river);
+  color: var(--color-off-white);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+
+
