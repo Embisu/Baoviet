@@ -25,7 +25,7 @@ export default function HeroAwwwards() {
           style={{ filter: blurOverlay }}
         >
           <Image
-            src="/images/cover_new.jpg"
+            src="/images/6.jpg"
             alt="Dòng sông Hương"
             fill
             priority

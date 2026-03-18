@@ -23,10 +23,10 @@ export default function FinalEpilogue() {
          style={{ scale: imgScale }}
        >
          <Image 
-           src="/images/dua_22-1693633071517.jpg" 
+           src="/images/7.jpg" 
            alt="Sông Hương chiều tà" 
            fill 
-           className="object-cover opacity-60 mix-blend-luminosity brightness-75 contrast-125"
+           className="object-cover opacity-60 mix-blend-luminosity brightness-75 contrast-125 scale-105"
          />
          {/* Heavy vignette gradient for ending */}
          <div className="absolute inset-0 bg-gradient-to-t from-[#020510] via-[#020510]/80 to-transparent"></div>
@@ -40,9 +40,9 @@ export default function FinalEpilogue() {
           <span className="text-[#A0AFC0] font-inter text-sm md:text-lg tracking-[0.4em] uppercase mb-8 block font-light">
              Kết Thúc Một Cuộc Đua
           </span>
-          <h2 className="text-4xl md:text-6xl lg:text-[5.5rem] font-playfair font-bold text-white leading-[1.2] md:leading-[1.1] mb-12 drop-shadow-[0_0_30px_rgba(0,10,25,0.8)]">
+          <h2 className="text-4xl md:text-6xl lg:text-[5.5rem] font-playfair font-bold text-white leading-snug md:leading-tight mb-16 drop-shadow-[0_0_30px_rgba(0,10,25,0.8)] px-4">
              Hành trình <span className="text-[#D4AF37] italic">Bảo vệ & Nuôi dưỡng</span> <br className="hidden md:block"/> 
-             giá trị Việt, chỉ mới <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FADB5F] to-[#B8860B] border-b-2 border-[#D4AF37]/50 pb-2">Bắt đầu.</span>
+             giá trị Việt, chỉ mới <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FADB5F] to-[#B8860B] border-b-2 border-[#D4AF37]/50 pb-2 inline-block mt-4 md:mt-0">Bắt đầu.</span>
           </h2>
           
           <div className="w-px h-24 md:h-32 bg-gradient-to-b from-[#D4AF37] to-transparent mx-auto mb-12 relative">

@@ -44,7 +44,7 @@ export default function BentoEventScale() {
             transition={{ duration: 0.8 }}
           >
             <div className="absolute inset-0 bg-[#001736]">
-               <Image src="/images/5-dua-ghe-song-huong.jpg" alt="20 Ghe Thi đấu" fill className="object-cover opacity-50 mix-blend-luminosity grayscale group-hover:grayscale-0 group-hover:opacity-70 group-hover:scale-105 transition-all duration-[2s] ease-out" />
+               <Image src="/images/5.jpg" alt="20 Ghe Thi đấu" fill className="object-cover opacity-50 mix-blend-luminosity grayscale group-hover:grayscale-0 group-hover:opacity-70 group-hover:scale-105 transition-all duration-[2s] ease-out" />
                <div className="absolute inset-0 bg-gradient-to-t from-[#020510] via-[#020510]/80 to-transparent"></div>
             </div>
 
@@ -102,7 +102,7 @@ export default function BentoEventScale() {
             transition={{ duration: 0.8, delay: 0.3 }}
           >
             <div className="absolute inset-0 bg-[#001736]">
-               <Image src="/images/song-huong-scaled.jpg" alt="Khán giả" fill className="object-cover opacity-40 mix-blend-luminosity transition-transform duration-[2s] group-hover:scale-110" />
+               <Image src="/images/13.jpg" alt="Khán giả" fill className="object-cover opacity-40 mix-blend-luminosity transition-transform duration-[2s] group-hover:scale-110" />
                <div className="absolute inset-0 bg-gradient-to-t from-[#020510] via-[#020510]/50 to-transparent"></div>
             </div>
             <div className="relative z-10 w-full">

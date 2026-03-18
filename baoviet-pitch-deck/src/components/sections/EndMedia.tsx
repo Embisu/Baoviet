@@ -65,7 +65,7 @@ export default function EndMedia() {
           >
             <div className="aspect-square md:aspect-[4/5] w-full rounded-[2rem] bg-gradient-to-tr from-[#003B73]/50 to-[#020510] border-2 border-[#D4AF37]/20 p-8 flex flex-col justify-center shadow-[0_0_50px_rgba(0,59,115,0.4)] overflow-hidden relative group">
               
-              <div className="absolute inset-0 bg-[url('/images/4-1156-1773225868.webp')] bg-cover opacity-10 group-hover:opacity-30 transition-opacity duration-700"></div>
+              <div className="absolute inset-0 bg-[url('/images/3.webp')] bg-cover opacity-10 group-hover:opacity-30 transition-opacity duration-700"></div>
 
               <div className="relative z-10 text-center">
                  <span className="text-[#D4AF37] font-inter text-xs tracking-widest uppercase font-bold mb-4 block">

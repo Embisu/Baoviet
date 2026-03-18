@@ -6,34 +6,46 @@ import Image from "next/image";
 
 const ideas = [
   {
-    tag: "Creative Idea (Docx)",
+    tag: "Creative Idea",
     title: "GHE ẤN TƯỢNG NHẤT",
     desc: "Giải phụ khuyến khích các đội diễu hành và trang trí ghe trước giờ G. Biến mặt nước sông Hương thành một 'Lễ Hội Sắc Xanh' lộng lẫy.",
-    img: "/images/5-dua-ghe-song-huong.jpg"
+    img: "/images/5.jpg"
   },
   {
-    tag: "Visual Asset (Docx)",
+    tag: "Visual Asset",
     title: "DẤU ẤN TỪ BẦU TRỜI",
     desc: "20 ghe thi đấu tập hợp xếp thành Logo BVNT & chữ HUE khổng lồ trên mặt nước. Drone Top-Shot bắt trọn khoảnh khắc này để đẩy mạnh Viral PR.",
-    img: "/images/hai_7.webp"
+    img: "/images/16.webp"
   },
   {
-    tag: "Ground Interaction (Docx+)",
+    tag: "Ground Interaction",
     title: "CHECK-IN SÔNG HƯƠNG",
     desc: "Mở khu vực Check-in gắn Logo mạ vàng dọc công viên. Song song là tiếng MC bình luận rực lửa 'Tranh cúp Bảo Việt' loan xa khắp đôi bờ.",
-    img: "/images/3-124603_268-145629.webp"
+    img: "/images/1.webp"
+  },
+  {
+    tag: "Night Activation",
+    title: "HUẾ THẮP SÁNG BẢO VIỆT",
+    desc: "Đêm trước Ngày Khai mạc, hàng nghìn đèn hoa đăng mang logo Bảo Việt lấp lánh được thả xuống dòng sông Hương, tạo nên một nghi thức gửi gắm ước nguyện bình an đến mỗi gia đình.",
+    img: "/images/14.jpg"
   },
   {
     tag: "New Touchpoint",
     title: "TRẠM THƯ CHÈO THẦM LẶNG",
     desc: "Một Booth tương tác cảm xúc nơi khán giả viết tay lời cảm ơn gửi đến 'người cầm lái' trụ cột gia đình mình, gắn lên sa bàn ghe Bảo Việt cỡ lớn.",
-    img: "/images/3-1708427208.webp"
+    img: "/images/2.webp"
+  },
+  {
+    tag: "Sport Extension",
+    title: "FAMILY RUN: ĐƯỜNG CHẠY YÊU THƯƠNG",
+    desc: "Giải chạy bộ/đạp xe khởi động dọc bờ sông dành cho các gia đình, truyền cảm hứng về lối sống khỏe và tinh thần bảo vệ, đồng thời cổ vũ sức mạnh cho đường đua xanh.",
+    img: "/images/12.jpg"
   },
   {
     tag: "New Experience",
     title: "RƯỚC MÁI CHÈO DI SẢN",
     desc: "Nghi thức rước 'Mái chèo Vàng Bảo Việt' qua các lăng tẩm Huế trong vòng 7 ngày trước khai mạc. Kích hoạt PR Teasing khơi dậy tinh thần dân tộc.",
-    img: "/images/4-diem-view-dep-ngam-song-Huong-xu-Hue-ivivu-04.jpg" 
+    img: "/images/4.jpg" 
   }
 ];
 

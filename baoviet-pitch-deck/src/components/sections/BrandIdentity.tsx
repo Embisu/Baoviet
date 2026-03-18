@@ -28,7 +28,7 @@ export default function BrandIdentity() {
         "Logo BVNT nổi bật trước ngực & sau lưng",
         "Băng rôn trắng/xanh in chữ BAOVIET",
       ],
-      img: "/images/3-124603_268-145629.webp",
+      img: "/images/1.webp",
       alt: "Trang phục VĐV"
     },
     {
@@ -38,7 +38,7 @@ export default function BrandIdentity() {
         "Mái chèo sơn đoạn xanh đặc trưng",
         "Cánh chèo, dán sóng nước logo nhỏ"
       ],
-      img: "/images/5-dua-ghe-song-huong.jpg",
+      img: "/images/5.jpg",
       alt: "Vũ khí mái chèo"
     },
     {
@@ -48,7 +48,7 @@ export default function BrandIdentity() {
         "Khung cảnh 20 cờ đầu ghe tung bay",
         "Sân khấu & Bục giải phủ màu xanh chủ đạo"
       ],
-      img: "/images/4-1156-1773225868.webp",
+      img: "/images/3.webp",
       alt: "Cờ và Sân khấu"
     }
   ];
