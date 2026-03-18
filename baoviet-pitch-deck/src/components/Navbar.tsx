@@ -28,7 +28,7 @@ export default function Navbar() {
         <div className="flex items-center gap-4">
           <div className="relative w-32 md:w-40 h-10">
             <Image 
-              src="/images/logo-bao-viet-inkythuatso (2)-01.png" 
+              src="/images/9.png" 
               alt="Bảo Việt Logo"
               fill
               className="object-contain"
